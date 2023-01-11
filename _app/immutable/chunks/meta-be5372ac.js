@@ -1,0 +1,1 @@
+const t="https://ityum.online",s=["Tim","Young Journalist","Interesting","Journalist","Open Source"],n="a young journalist aiming to build notes that spark joy. I collect notes about fun stuff, and sometimes write it down.",o="Tim - Young Journalist",i=`${t}/images/site-preview.png`;export{n as d,i,s as k,t as s,o as t};
